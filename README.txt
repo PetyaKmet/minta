@@ -1,1 +1,1 @@
-This is a sample drush make with an installation profile for learning porpuses.
+This is a sample Drupal  drush make with an installation profile for learning porpuses.
