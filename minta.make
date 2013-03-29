@@ -15,8 +15,9 @@ projects[] = context
 ; VIEWS
 ; ------------------------------------------------------------------------------
 
-projects[]   = views
-; projects[] = views_slideshow
+projects[]      = views
+projects[views] = hu
+; projects[]    = views_slideshow
 
 ; ------------------------------------------------------------------------------
 ; ADMIN
