@@ -16,7 +16,10 @@ projects[] = context
 ; ------------------------------------------------------------------------------
 
 projects[]      = views
-projects[views][translations] = hu
+
+; The translations syntax is wrong
+; projects[views][translations] = hu
+
 ; projects[]    = views_slideshow
 
 ; ------------------------------------------------------------------------------
