@@ -16,7 +16,7 @@ projects[] = context
 ; ------------------------------------------------------------------------------
 
 projects[]      = views
-projects[views] = hu
+projects[views][translations] = hu
 ; projects[]    = views_slideshow
 
 ; ------------------------------------------------------------------------------
